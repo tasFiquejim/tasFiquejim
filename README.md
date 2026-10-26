@@ -1,30 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasfique+%F0%9F%91%8B;Laravel+Developer;I+build+things+for+the+web" alt="Typing SVG" />
+</p>
 
-<!--
-**tasFiquejim/tasFiquejim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,mysql,git,vscode&theme=dark" />
+</p>
 
-Here are some ideas to get you started:
+<!-- <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tasFiquejim&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF&hide_border=true&hide_title=true&radius=6" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ### A K Tasfique Ahmed's GitHub Stats -->
-
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="https://github.com/tasFiquejim">
-      <img src="https://github-readme-stats.vercel.app/api?username=tasFiquejim&show_icons=true&theme=transparent&hide_border=true&hide=prs&bg_color=00000000" style="max-width: 100%;"/>
-    </a>
-    <a href="https://github.com/tasFiquejim">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasFiquejim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" style="max-width: 100%;"/>
-    </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=tasFiquejim&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="mailto:your@email.com">Email</a> ·
+  <a href="https://linkedin.com/in/yourname">LinkedIn</a>
+</p> -->
